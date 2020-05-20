@@ -1,0 +1,22 @@
+{
+  "name": "BelenkoValery/testTask",
+  "description": "Test TASK Symphony module CRUD and REST API 2020/05/21",
+  "keywords": ["symphony","crud"],
+  "license": "MIT",
+  "authors": [
+      {
+        "name" : "Belenko V.S.",
+        "email" : "val@usva.biz"
+      }
+    ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+        "BelenkoValery\\testTask": "src/BelenkoV/testTask"
+      }
+    }
+  
+  
+}
